@@ -1,0 +1,13 @@
+{
+  "name": "yujin-inventory",
+  "private": true,
+  "version": "1.0.0",
+  "description": "유진코 인터넷쇼핑몰 재고현황 (정적 페이지)",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
